@@ -126,7 +126,7 @@ Where:
 <h3>Clone Repository :</h3>
 
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/mharoon1434/house-price-predictor.git
 ```
 
 <h3>Open Project Folder :</h3>
