@@ -6,7 +6,7 @@ A Machine Learning project that predicts house prices using regression algorithm
 
 ---
 
-<h2>📌 Project Overview</h2>
+<h2>Project Overview</h2>
 
 <p>
 This project focuses on predicting house prices using <b>Machine Learning (ML)</b> and 
@@ -21,7 +21,7 @@ The main objective is to build a regression model that can estimate house prices
 
 ---
 
-<h2>🚀 Features</h2>
+<h2>Features</h2>
 
 <ul>
   <li>Data preprocessing and cleaning</li>
@@ -35,7 +35,7 @@ The main objective is to build a regression model that can estimate house prices
 
 ---
 
-<h2>🛠️ Technologies Used</h2>
+<h2>Technologies Used</h2>
 
 <table>
   <tr>
@@ -62,7 +62,7 @@ The main objective is to build a regression model that can estimate house prices
 
 ---
 
-<h2>📂 Project Structure</h2>
+<h2>Project Structure</h2>
 
 ```bash
 House-Price-Prediction/
@@ -79,7 +79,7 @@ House-Price-Prediction/
 
 ---
 
-<h2>📊 Machine Learning Models</h2>
+<h2>Machine Learning Models</h2>
 
 <details>
 <summary><b>Click to View Models Used</b></summary>
@@ -100,7 +100,7 @@ These regression algorithms learn patterns from historical housing data and pred
 
 ---
 
-<h2>📈 Regression Formula</h2>
+<h2>Regression Formula</h2>
 
 <p align="center">
 
@@ -121,55 +121,43 @@ Where:
 </ul>
 
 ---
+<h2>Installation</h2>
 
-<h2>⚙️ Installation</h2>
-
-<details>
-<summary><b>Step 1: Clone Repository</b></summary>
+<h3>Clone Repository :</h3>
 
 ```bash
 git clone https://github.com/your-username/house-price-prediction.git
 ```
 
-</details>
-
-<details>
-<summary><b>Step 2: Navigate to Project Folder</b></summary>
+<h3>Open Project Folder :</h3>
 
 ```bash
 cd house-price-prediction
 ```
 
-</details>
-
-<details>
-<summary><b>Step 3: Install Dependencies</b></summary>
+<h3>Install Dependencies :</h3>
 
 ```bash
 pip install -r requirements.txt
 ```
 
-</details>
-
 ---
 
-<h2>▶️ Usage</h2>
+<h2>Run The Program</h2>
 
-<h3>Run Training Script</h3>
+<p>
+The complete project is implemented inside a single file named <b>main.py</b>.
+</p>
 
-```bash
-python training.py
-```
-
-<h3>Run Prediction Script</h3>
+<h3>Run Command :</h3>
 
 ```bash
-python prediction.py
+python main.py
 ```
 
 ---
 
-<h2>📊 Model Evaluation</h2>
+<h2>Model Evaluation</h2>
 
 <table>
   <tr>
@@ -192,17 +180,17 @@ python prediction.py
 
 ---
 
-<h2>📷 Output</h2>
+<h2>Output</h2>
 
 <ul>
-  <li>🏡 Predicts house prices based on user input</li>
-  <li>📉 Displays graphs and data analysis</li>
-  <li>📊 Visualizes housing market trends</li>
+  <li>Predicts house prices based on user input</li>
+  <li>Displays graphs and data analysis</li>
+  <li>Visualizes housing market trends</li>
 </ul>
 
 ---
 
-<h2>🎯 Future Improvements</h2>
+<h2>Future Improvements</h2>
 
 <ul>
   <li>🔹 Deploy using Flask or Django</li>
@@ -213,7 +201,7 @@ python prediction.py
 
 ---
 
-<h2>🤝 Contributing</h2>
+<h2>Contributing</h2>
 
 <p>
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
@@ -221,13 +209,6 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ---
 
-<h2>📜 License</h2>
-
-<p>
-This project is licensed under the MIT License.
-</p>
-
----
 
 <h2>👨‍💻 Author</h2>
 
