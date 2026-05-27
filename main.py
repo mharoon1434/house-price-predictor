@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
+import numpy as np
 
 
 # import dataset
@@ -24,3 +25,8 @@ regressor.fit(x_train,y_train)
 
 # testing 
 y_pred = (regressor.predict(x_test))
+# print(regressor.predict(7420))
+predicted_data = pd.DataFrame(y_pred, columns=["Predicted_Value"])
+
+array=np.array(regressor.predict(x_test))
+print(array)
